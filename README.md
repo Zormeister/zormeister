@@ -5,7 +5,8 @@ i work on some pretty cool stuff! take a look at:
 - [my goofy bootloader project](https://github.com/Zormeister/DarwinBoot)
 - [my XNU branches](https://github.com/Zormeister/xnu)
 - [whatever this is](https://github.com/Zormeister/ProjectBuilder/tree/rewrite)
-- my various bits and pieces of code for PureDarwin, (see my fork of PDACPIPlatform and corecrypto for example)
+- [what happens when i google too much](https://github.com/Zormeister/corecrypto)
+- [i also work on stuff for PureDarwin](https://github.com/PureDarwin)
 - [i do cool hackintosh things if i feel like it](https://github.com/Carnations-Botanica/)
 
 
