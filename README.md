@@ -1,13 +1,13 @@
-hello! i'm zormeister, a guy on the internet who does stuff in C++ or C.
+Hello! I'm Zormeister, a guy on the internet who makes stuff in C++ or C (and sometimes branches out).
 
 
-i work on some pretty cool stuff! take a look at:
-- [my goofy bootloader project](https://github.com/Zormeister/DarwinBoot)
-- [my XNU branches](https://github.com/Zormeister/xnu)
-- [whatever this is](https://github.com/Zormeister/ProjectBuilder/tree/rewrite)
-- [what happens when i google too much](https://github.com/Zormeister/corecrypto)
-- [i also work on stuff for PureDarwin](https://github.com/PureDarwin)
-- [i do cool hackintosh things if i feel like it](https://github.com/Carnations-Botanica/)
+I work on some pretty cool stuff! Take a look at:
+- [DarwinBoot](https://github.com/Zormeister/DarwinBoot), a (really, really) work-in-progress XNU bootloader
+- [My XNU branches](https://github.com/Zormeister/xnu), consisting of an x86 and ARM development branch, and a mainline branch to go with them.
+- [The corecrypto project](https://github.com/Zormeister/corecrypto)
+- My efforts in working on [PureDarwin](https://github.com/PureDarwin/PureDarwin)
+- [PDACPIPlatform](https://github.com/PureDarwin/PDACPIPlatform), an ACPI Platform Expert kext for PureDarwin
+- [iBridged](https://github.com/Carnations-Botanica/iBridged), a patcking kext for Apple Secure Boot enabled Hackintoshes to OTA on Sonoma 14.4+
+- [EmbeddedDeviceMap](https://github.com/Zormeister/EmbeddedDeviceMap), an open-source reimplementation of Apple's `embedded_device_map` internal tool, forked from [this version](https://github.com/b-man/edm) and tweaked for convenient mapping
 
 
-also a certified fan of detroit become human and the owl house, a bit too much of a fan maybe
