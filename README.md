@@ -1,4 +1,4 @@
-Hello! I'm Zormeister, a guy on the internet who makes stuff in C++ or C (and sometimes branches out).
+Hello! I'm Samuel Zormeister (better known as just Zormeister), a guy on the internet who makes stuff in C++ or C (and sometimes branches out).
 
 
 I work on some pretty cool stuff! Take a look at:
