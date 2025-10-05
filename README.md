@@ -11,4 +11,4 @@ I work on some pretty cool stuff! Take a look at:
 - [EmbeddedDeviceMap](https://github.com/Zormeister/EmbeddedDeviceMap), an open-source reimplementation of Apple's `embedded_device_map` internal tool, forked from [this version](https://github.com/b-man/edm) and tweaked for convenient mapping
 - The [IOAHCI](https://github.com/Zormeister/IOAHCIProject) project, an open-source AHCI driver and IOKit family for PureDarwin.
 
-
+If you'd like to support my endeavours/batshit crazy ideas, support me on [Ko-Fi](https://ko-fi.com/samzormeister)!
